@@ -13,3 +13,6 @@ mounted in the same housings used for ANNIE Phase I.
 * XX WATCHMAN 10" HQE test PMTs: these Hamamatsu RXXXXX 10" tubes are the HQE variant of the WATCHBOY tubes.
 
 ## WATCHBOY PMTs and PMT Holders
+
+Details on the design and cost of the WATCHBOY holders can be found here:
+https://annie-docdb.fnal.gov/cgi-bin/private/ShowDocument?docid=2169
